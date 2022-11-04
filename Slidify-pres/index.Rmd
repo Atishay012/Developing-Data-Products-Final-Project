@@ -31,7 +31,7 @@ The goal of this assignment is to build:
 ## Links to Project App & Docs
 
 1. Shiny App: [Link](https://Atishay.shinyapps.io/MultiOutcome_Shiny/)
-2. server.R` and `ui.R` files: [Link](https://github.com/savitakohli/Developing-Data-Products-Final-Project) 
+2. server.R` and `ui.R` files: [Link](https://github.com/Atishay/Developing-Data-Products-Final-Project) 
 
 ---
 
